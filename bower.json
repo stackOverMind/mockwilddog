@@ -1,0 +1,29 @@
+{
+  "name": "mockfirebase",
+  "version": "0.0.1",
+  "homepage": "https://github.com/stackOverFlow/mockwilddog",
+  "authors": [
+    "Kato"
+  ],
+  "description": "在单元测试中用来模拟wilddog客户端",
+  "main": "./browser/mockwilddog.js",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "wilddog",
+    "mock"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "test",
+    "helpers",
+    "gulpfile.js",
+    "package.json",
+    "src"
+  ]
+}
